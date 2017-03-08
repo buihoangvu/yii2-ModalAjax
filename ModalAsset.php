@@ -11,7 +11,7 @@ class ModalAsset extends \yii\web\AssetBundle {
     /**
      * @inheritdoc
      */
-    public $sourcePath = '@vendor/karnbrockgmbh/yii2-modal-ajax/assets/';
+    public $sourcePath = '@vendor/buihoangvu/yii2-modalajax/assets/';
 
     /**
      * @inheritdoc
